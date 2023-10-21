@@ -43,7 +43,7 @@ To get started with LipRead, follow these steps:
 
 <img width="1267" alt="Screenshot 2023-10-21 165009" src="https://github.com/Horizon-369/LipReadApp/assets/124186027/0e881fab-578a-413a-b6ec-cbc2797de3e3">
 
-1. Select any mpg file from above list.
+1. Select any mpg file from the above list.
 2. On left hand side it will show the selected video.
 3. On right hand side it will show the predicted output of our ml model.
 
